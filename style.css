@@ -1,6 +1,8 @@
 body {
   font-family: Niramit;
   background-color: #414A4C;
-  color: white;
-  font-family: Niramit;
+}
+
+h1 p {
+    color: white;
 }
